@@ -75,7 +75,6 @@ orientation = portrait
 # author = © Copyright Info
 
 # Kivy version to use
-osx.python_version = 3.7.6
 osx.kivy_version = 2.2.0
 
 #
